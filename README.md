@@ -23,8 +23,12 @@ MetasplitTable2 is a penetration testing project focused on identifying and expl
 - Comprehensive instructions for vulnerability assessment, exploitation, and mitigation.  
 - Use of tools such as Metasploit, Nmap, and Nessus for network and vulnerability scanning.  
 
+## Prerequisites  
+To practice the techniques demonstrated in this project, download the **Metasploitable 2** virtual machine from [VulnHub](https://www.vulnhub.com/entry/metasploitable-2,29/).  
+
 ## Tools Used  
 - **Metasploit Framework**  
 - **Nmap**  
 - **Nessus**  
 - Other utilities like `ifconfig`, `netdiscover`, `smbclient`, and `enum4linux`.  
+
